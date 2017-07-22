@@ -51,10 +51,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-lead B": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "24px"
             },
             ".mbr-section-title P": {
-              "text-align": "right"
+              "text-align": "left",
+              "color": "#07c7f1",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -82,8 +85,8 @@
             "showButtons": true
           },
           "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp;People Power<br><br></p>",
-          "text": "<b>Find a cheap taxi,, or the love of your life? Why not have it both? It's all possible, and right at your fingertips.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "text": "<b>&nbsp; Find a cheap taxi,, or the love of your life? Why not have it &nbsp; &nbsp; both? It's all possible, and right at your fingertips.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Find out how</a>  "
         }
       ]
     }

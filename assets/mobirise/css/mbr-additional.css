@@ -434,7 +434,10 @@ h6,
 }
 #header5-b .mbr-section-lead B {
   text-align: right;
+  font-size: 24px;
 }
 #header5-b .mbr-section-title P {
-  text-align: right;
+  text-align: left;
+  color: #07c7f1;
+  font-size: 60px;
 }
