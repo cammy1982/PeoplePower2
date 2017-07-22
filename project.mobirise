@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "People Power Landingpage",
-    "currentPage": "People Power #2",
+    "currentPage": "People Power2",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -16,7 +16,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "People Power #2": {
+    "People Power2": {
       "settings": {
         "main": true,
         "title": "",
