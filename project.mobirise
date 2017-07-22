@@ -1,67 +1,89 @@
 {
   "settings": {
-    "name": "People Power Landingpage",
-    "currentPage": "People Power2",
+    "name": "People Power 2",
+    "currentPage": "index.html",
     "theme": {
-      "name": "default",
-      "title": "Mobirise",
-      "styling": {}
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#51204f",
+        "secondaryColor": "#d81e5b",
+        "successColor": "#f0544f",
+        "infoColor": "#c6d8d3",
+        "warningColor": "#fdf0d5",
+        "dangerColor": "#f28281",
+        "titleFont": "Indie Flower",
+        "subtitleFont": "Indie Flower",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
-    "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
-    "favicon": "",
-    "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 12,
+    "versionPublish": "3.12.1"
   },
   "pages": {
-    "People Power2": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "people power episode 2",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ce200e",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "color": "#c6d8d3",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead B": {
+              "text-align": "right"
+            },
+            ".mbr-section-title P": {
+              "text-align": "right"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "60px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "_anchor": "image1-1",
+          "_name": "header5",
+          "_anchor": "header5-b",
           "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kissing-by-a-taxi-1400x1400.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/couple-kissing-nyc-taxi-cab-times-square-2000x1358.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "text": "<span style=\"line-height: 1.3em;\">A cheap taxi or the love of your life? Have it both!</span><br>"
+          "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp;People Power<br><br></p>",
+          "text": "<b>Find a cheap taxi,, or the love of your life? Why not have it both? It's all possible, and right at your fingertips.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
     }
