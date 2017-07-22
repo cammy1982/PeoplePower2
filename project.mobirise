@@ -97,13 +97,13 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-d",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "61",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#dab072",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
