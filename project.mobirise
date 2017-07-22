@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "name": "People Power Landingpage",
+    "currentPage": "People Power #2",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "People Power #2": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "people power episode 2",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "_anchor": "image1-1",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kissing-by-a-taxi-1400x1400.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<span style=\"line-height: 1.3em;\">A cheap taxi or the love of your life? Have it both!</span><br>"
+        }
+      ]
+    }
+  }
+}
