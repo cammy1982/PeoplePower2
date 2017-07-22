@@ -442,6 +442,12 @@ h6,
   color: #bfdbf7;
   font-size: 60px;
 }
+#msg-box4-d SPAN {
+  font-size: 36px;
+}
+#footer1-f P {
+  color: #361376;
+}
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
