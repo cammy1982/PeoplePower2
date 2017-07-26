@@ -96,7 +96,7 @@ h6,
   background-color: #c6d8d3 !important;
 }
 .bg-warning {
-  background-color: #fdf0d5 !important;
+  background-color: #f28281 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -182,8 +182,8 @@ h6,
   border-color: #df1913 !important;
 }
 .btn-warning {
-  background-color: #fdf0d5;
-  border-color: #fdf0d5;
+  background-color: #f28281;
+  border-color: #f28281;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -192,14 +192,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #fad68c;
-  border-color: #fad68c;
+  background-color: #eb3d3c;
+  border-color: #eb3d3c;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #fad68c !important;
-  border-color: #fad68c !important;
+  background-color: #eb3d3c !important;
+  border-color: #eb3d3c !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -303,8 +303,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #f8cd74;
-  color: #f8cd74;
+  border-color: #e82625;
+  color: #e82625;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -312,14 +312,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #fdf0d5;
-  border-color: #fdf0d5;
+  background-color: #f28281;
+  border-color: #f28281;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #fdf0d5 !important;
-  border-color: #fdf0d5 !important;
+  background-color: #f28281 !important;
+  border-color: #f28281 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -351,7 +351,7 @@ h6,
   color: #c6d8d3 !important;
 }
 .text-warning {
-  color: #fdf0d5 !important;
+  color: #f28281 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -363,7 +363,7 @@ h6,
   background-color: #c6d8d3;
 }
 .alert-warning {
-  background-color: #fdf0d5;
+  background-color: #f28281;
 }
 .alert-danger {
   background-color: #f28281;
@@ -419,9 +419,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #51204f;
-}
-.scrollToTop_wraper {
-  opacity: 0 !important;
 }
 #header5-b .mbr-section-title {
   color: #ce200e;

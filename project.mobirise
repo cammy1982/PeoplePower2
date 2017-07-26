@@ -10,14 +10,14 @@
         "secondaryColor": "#d81e5b",
         "successColor": "#f0544f",
         "infoColor": "#c6d8d3",
-        "warningColor": "#fdf0d5",
+        "warningColor": "#f28281",
         "dangerColor": "#f28281",
         "titleFont": "Indie Flower",
         "subtitleFont": "Indie Flower",
         "textFont": "Raleway",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -107,16 +107,16 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2700.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2849.jpg",
             "bgColor": "#b79939",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#cccccc",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -141,7 +141,7 @@
             }
           },
           "title": "People Power, episode 2",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">In this episode Sarah is talking about a new P2P usercase: taxi's and dating.&nbsp;</span><br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">In this episode is Sarah talking about two examples for P2P usercases: taxi's and dating.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
